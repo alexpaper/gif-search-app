@@ -18,6 +18,10 @@ Once you are ready to use your app in production, please verify your GIPHY integ
 
 ## Available Scripts
 
+Run this to install dependencies
+```
+npm i
+```
 In the project directory, you can run:
 
 ### `npm start`
