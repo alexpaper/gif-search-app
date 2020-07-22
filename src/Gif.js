@@ -162,7 +162,7 @@ return (
             <img className='svg' src={Home} alt="home"/>
         </a>
         <div className='gif-title'>
-        <img className='svg' src={Heart} alt=""/> <h1 className='gif-title'> Gif Search</h1>
+        <img className='svg' src={Heart} alt=""/> <h1 className='gif-title-h1'> Gif Search</h1>
         </div>
         <div><strong>Search:</strong> {title}</div>
         <Search search={search} setSearch={setSearch} fetchData={fetchData} setTitle={setTitle}/>
